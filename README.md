@@ -7,6 +7,9 @@ A Vcard made entirely in flutter
 **Built with**
 - [Flutter](https://flutter.dev)
 
+# Screenshots
+[![Screenshot-2020-10-02-06-25-49-649-com-example-my-vcard-flutter-1.jpg](https://i.postimg.cc/tC64GXT5/Screenshot-2020-10-02-06-25-49-649-com-example-my-vcard-flutter-1.jpg)](https://postimg.cc/D82Tq31J)
+
 # Installation
 
 - Clone or download source code from Github. You can download it directly, or use a tool like Git-bash, tortoise git...
